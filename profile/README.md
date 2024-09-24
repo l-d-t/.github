@@ -4,7 +4,7 @@
 
 Welcome to LDT Code repository.
 
-Our open and public projects will be hosted here in the near future.
+Our open and public projects will be hosted here.
 
 # About
 
